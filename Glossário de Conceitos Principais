@@ -1,0 +1,8 @@
+
+Algoritmo: Sequência finita de instruções bem definidas para a execução de uma tarefa ou resolução de um problema.
+Acumulador: Variável responsável por somar e armazenar valores de entrada a cada iteração de uma repetição.
+Compilador: Ferramenta que transforma as instruções de texto (código) em instruções binárias executáveis pelo computador.
+Depuração (Debugging): Processo de executar o código passo a passo para identificar e corrigir erros de lógica ou sintaxe.
+IDE (Integrated Development Environment): Ambiente integrado que oferece todas as ferramentas necessárias para o desenvolvimento de software.
+Modularização: Agrupamento de ações com um objetivo específico para reduzir a complexidade do algoritmo principal.
+Tabela-Verdade: Representação gráfica de todas as combinações de valores lógicos para proposições compostas.
