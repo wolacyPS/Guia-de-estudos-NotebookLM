@@ -1,0 +1,18 @@
+1. Resumos Estruturados do Assunto Módulo
+1: Fundamentos e Ferramentas Motivação e Definição: A programação surge da necessidade de automatizar tarefas repetitivas que os seres humanos tendem a errar por cansaço. 
+Um algoritmo é definido como uma sequência lógica de passos para resolver um problema específico.
+Ciclo de Desenvolvimento: O processo padrão segue o fluxo: Problema $\rightarrow$ Algoritmo $\rightarrow$ Código $\rightarrow$ Resolução.
+Ambiente de Desenvolvimento (IDE): Ferramenta que integra o editor de texto (para escrever o código), o compilador (que traduz o texto para binário) e o depurador ou debugger (para testar o código linha a linha).
+Variáveis: São espaços reservados na memória RAM para armazenar dados durante a execução. Devem ter um nome e um tipo (inteiro, real, caractere, etc.).
+
+Módulo 2: Lógica e Estruturas de DecisãoOperadores Lógicos e de Comparação: São utilizados para criar condições.
+Exemplos incluem os operadores de comparação ($>$, $<$, $==$, $!=$) e os conectivos lógicos: "e" ($\wedge$), "ou" ($\vee$) e "não" ($\sim$).
+Tabela-Verdade: Método para sistematizar a tomada de decisão, determinando o valor lógico de expressões compostas.
+Por exemplo, uma conjunção ("e") só é verdadeira se ambas as sentenças forem verdadeiras.
+Estruturas Condicionais:Se/Então (if/else): Executa um bloco de código apenas se uma condição for satisfeita.
+Aninhamento: Uso de condicionais dentro de outras para tratar problemas complexos.
+Faça Caso (switch case): Compara uma variável com valores constantes pré-definidos.
+                                  
+Módulo 3: Estruturas AvançadasLaços de Repetição (Loops): Estruturas como o "Para" (for) e "Enquanto" (while) que permitem repetir instruções várias vezes.
+Estruturas de Dados: Uso de vetores e matrizes para armazenar múltiplos valores sob um mesmo nome, acessados por índices.
+Modularização: Técnica de dividir um problema grande em partes menores (procedimentos e funções), facilitando a compreensão e manutenção
