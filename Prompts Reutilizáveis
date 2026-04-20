@@ -1,0 +1,9 @@
+Explicação Conceitual: "Explique o conceito de [CONCEITO, ex: Recursividade ou Variáveis Globais] no contexto de lógica de programação, utilizando uma analogia simples do dia a dia."
+
+Conversão de Lógica: "Converta o seguinte pseudocódigo em um programa funcional na linguagem [LINGUAGEM, ex: C, Java ou Python]: [INSERIR PSEUDOCÓDIGO]."
+
+Análise de Erros: "Atue como um depurador. Analise o código abaixo e identifique possíveis erros de lógica ou de sintaxe que impeçam o seu funcionamento correto: [INSERIR CÓDIGO]."
+
+Criação de Exercícios: "Crie um problema de lógica de programação que exija o uso de estruturas condicionais aninhadas e operadores lógicos (^ e v). Forneça a solução em pseudocódigo após eu tentar resolver."
+
+Revisão de Tabela-Verdade: "Gere uma tabela-verdade completa para a seguinte expressão lógica: (A ^ B) v ~C. Explique o resultado de cada linha."
